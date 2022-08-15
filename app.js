@@ -1,6 +1,4 @@
-//Exercise 1
-const firstName;
+//Exercise 1 and Exercise 2
+const firstName = "Fariha";
 let lastName = "Hossain";
 var age = 24;
-//Exercise2
-
