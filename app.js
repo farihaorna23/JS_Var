@@ -17,3 +17,9 @@ let inStock = false;
 let selectedSize = "M";
 console.log(price, isOnSale, salePercentage, stock, inStock, selectedSize);
 //Exercise5
+let title = "Name of the Wind";
+let author = "Patrick Rothfuss";
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
+console.log(title, author, pageCount, bookmark, hasRead);
