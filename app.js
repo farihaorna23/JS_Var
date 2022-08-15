@@ -8,3 +8,12 @@ let language = "Javascript";
 let createdYear = 1995;
 let isCaseSensitive = true;
 console.log(language, createdYear, isCaseSensitive);
+//Exercise 4
+let price = 19.99;
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = "M";
+console.log(price, isOnSale, salePercentage, stock, inStock, selectedSize);
+//Exercise5
